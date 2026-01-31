@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\RobotNavigator.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\RobotNavigator.dir/objects.a @CMakeFiles\RobotNavigator.dir\objects1.rsp
-C:\MinGW\bin\c++.exe -Wl,--whole-archive CMakeFiles\RobotNavigator.dir/objects.a -Wl,--no-whole-archive -o RobotNavigator.exe -Wl,--out-implib,libRobotNavigator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RobotNavigator.dir\linkLibs.rsp
