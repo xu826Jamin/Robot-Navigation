@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/dev/RobotNavigator/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
